@@ -7,10 +7,10 @@ Identify phishing characteristics in four suspicious email samples to strengthen
 ## Samples Reviewed  
 | ID | Snapshot | Claimed Brand | Apparent Sender | Key Message |
 |----|-----------|---------------|-----------------|-------------|
-| 1  | ![Email 1](attached_image:1) | Google Drive | `goog…@protected-download.com` | “has shared the following PDF – Click Here” |
-| 2  | ![Email 2](attached_image:2) | GitHub | `GitHub@bigdogdomains.co` | “Verify your email address” |
-| 3  | ![Email 3](attached_image:3) | Microsoft | `support@msupdate.net` | “Your password changed” |
-| 4  | ![Email 4](attached_image:4) | Office 365 | `microsoft@email-records.com` | “High-severity alert – View alert details” |
+| 1  | ![Email 1](screenshots/Email1.png) | Google Drive | `goog…@protected-download.com` | “has shared the following PDF – Click Here” |
+| 2  | ![Email 2](screenshots/Email%202.png) | GitHub | `GitHub@bigdogdomains.co` | “Verify your email address” |
+| 3  | ![Email 3](screenshots/Email%203.png) | Microsoft | `support@msupdate.net` | “Your password changed” |
+| 4  | ![Email 4](screenshots/Email%204.png) | Office 365 | `microsoft@email-records.com` | “High-severity alert – View alert details” |
 
 ## Phishing Indicators Found
 
