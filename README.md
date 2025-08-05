@@ -23,6 +23,7 @@
      • This `README.md` – overview of process and contents.
 
 ## Repository Structure
+   <pre>
    task2-phishing-analysis/
    ├── README.md
    ├── phishing_analysis.md
@@ -30,7 +31,7 @@
       ├── email1.png   
       ├── email2.png
       ├── email3.png
-      └── email4.png
+      └── email4.png </pre>
 
 ## Key Takeaways
 - Spoofed or look-alike domains, urgent language, and generic greetings remain the most consistent phishing hallmarks.  
